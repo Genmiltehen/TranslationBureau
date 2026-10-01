@@ -1,5 +1,3 @@
-# TranslationBureau
-
 # Бюро переводов
 
 [![Build, Test and Publish](https://github.com/Genmiltehen/TranslationBureau/actions/workflows/build.yml/badge.svg)](https://github.com/Genmiltehen/TranslationBureau/actions/workflows/build.yml)
