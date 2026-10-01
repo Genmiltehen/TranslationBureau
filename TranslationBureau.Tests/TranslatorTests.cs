@@ -10,7 +10,7 @@ public class TranslatorTests
     {
         var translator = Translator.Create("Иванова Мария Петровна", "+375291234567", "ivanova@example.com", "высшая", 22m);
         Assert.Equal("Иванова Мария Петровна", translator.FullName);
-        Assert.Equal(25m, translator.RatePerUnit);
+        Assert.Equal(22m, translator.RatePerUnit);
         Assert.True(translator.IsActive);
     }
 
